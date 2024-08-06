@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "profileImage": "assets/ScreenImages/userImage.png",
+      "name": "A",
+      "description": "Description 1"
+    },
+    {
+      "id": "2",
+      "profileImage": "assets/ScreenImages/userImage.png",
+      "name": "B",
+      "description": "Description 2"
+
+    },
+    {
+      "id": "3",
+      "profileImage": "assets/ScreenImages/userImage.png",
+      "name": "C",
+      "description": "Description 3"
+    }
+  ]
+}
